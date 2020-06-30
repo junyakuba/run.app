@@ -1,0 +1,27 @@
+header{
+  margin-top: 30px;
+  color:#23c2ce;
+}
+
+hr{
+  border-width: 2px;
+  border-color: #23c2ce;
+}
+
+h1{
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.align-right{
+  text-align: right;
+}
+
+.button_wrapper{
+  text-align:center;
+}
+
+footer{
+  text-align: center;
+}
